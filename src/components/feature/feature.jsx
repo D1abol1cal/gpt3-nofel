@@ -1,7 +1,7 @@
 import React from 'react'
 import './feature.css'
 
-const feature = () => {
+const Feature = () => {
   return (
     <div>
       
@@ -9,4 +9,4 @@ const feature = () => {
   )
 }
 
-export default feature
+export default Feature

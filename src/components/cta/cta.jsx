@@ -1,7 +1,7 @@
 import React from 'react'
 import './cta.css'
 
-const cta = () => {
+const Cta = () => {
   return (
     <div>
       
@@ -9,4 +9,4 @@ const cta = () => {
   )
 }
 
-export default cta
+export default Cta

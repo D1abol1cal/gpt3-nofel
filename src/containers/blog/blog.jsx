@@ -2,7 +2,7 @@ import React from 'react'
 import './blog.css'
 
 
-const blog = () => {
+const Blog = () => {
   return (
     <div>
       
@@ -10,4 +10,4 @@ const blog = () => {
   )
 }
 
-export default blog
+export default Blog

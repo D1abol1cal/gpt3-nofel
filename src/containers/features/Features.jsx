@@ -1,6 +1,7 @@
 import React from 'react'
+import './features.css'
 
-const possiblity = () => {
+const Features = () => {
   return (
     <div>
       
@@ -8,4 +9,4 @@ const possiblity = () => {
   )
 }
 
-export default possiblity
+export default Features

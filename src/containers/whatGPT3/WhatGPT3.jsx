@@ -1,7 +1,7 @@
 import React from 'react'
-import './feature.css'
+import './whatGPT3.css'
 
-const feature = () => {
+const WhatGPT3 = () => {
   return (
     <div>
       
@@ -9,4 +9,4 @@ const feature = () => {
   )
 }
 
-export default feature
+export default WhatGPT3
